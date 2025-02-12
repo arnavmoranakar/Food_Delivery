@@ -1,0 +1,36 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavmoranakar/namaste-react.git#Episode-4"
+  },
+  "author": "Arnav Morankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnavmoranakar/namaste-react/issues"
+  },
+  "homepage": "https://github.com/arnavmoranakar/namaste-react/tree/Episode-4#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.3",
+    "bootstrap": "^5.3.3",
+    "dom": "^0.0.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.14.2",
+    "router": "^2.0.0",
+    "tailwindcss": "^4.0.3"
+  }
+}
